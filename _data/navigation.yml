@@ -16,9 +16,13 @@
   #  url: "/blog/archive/"
 
 - title: 心声
+  url: "/blog-journey/archive"
+  side: left
+
+- title: 故事
   url: "/blog-story/archive"
   side: left
 
-- title: "团队介绍"
+- title: 团队介绍
   url: "/team"
   side: right
