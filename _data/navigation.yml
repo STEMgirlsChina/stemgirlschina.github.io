@@ -23,6 +23,10 @@
   url: "/blog-story/archive"
   side: left
 
+- title: 专访
+  url: "/blog-interview/archive"
+  side: left
+
 - title: 团队介绍
   url: "/team"
   side: right
