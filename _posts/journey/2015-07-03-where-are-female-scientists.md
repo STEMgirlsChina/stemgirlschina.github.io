@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "颜宁：女科学家去哪儿了？ "
+title:  "理工女心声 | 颜宁：女科学家去哪儿了？ "
 teaser: "“当我慢慢意识到许多女孩子、特别是我自己的学生，并不是没有实力，只是因为社会家庭的共识，因为在某一阶段或主动或被动地必须做选择题，而脱离了她们本来挺有天赋的科研世界，我真的挺痛心。”"
 breadcrumb: true
 categories:

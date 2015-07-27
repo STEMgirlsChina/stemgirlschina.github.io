@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "阅读宇宙大图景的女天文学家"
+title:  "理工女故事 | 阅读宇宙大图景的女天文学家"
 teaser: ""
 breadcrumb: true
 categories:

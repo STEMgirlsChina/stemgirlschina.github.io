@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "多萝西·霍奇金——结构生物学的奠基人"
+title:  "理工女故事 | 多萝西·霍奇金——结构生物学的奠基人"
 teaser: ""
 breadcrumb: true
 categories:

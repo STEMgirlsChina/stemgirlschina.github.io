@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "葛丽丝·霍普：与计算机交谈的海军准将 "
+title:  "理工女故事 | 葛丽丝·霍普：与计算机交谈的海军准将 "
 teaser: ""
 breadcrumb: true
 categories:

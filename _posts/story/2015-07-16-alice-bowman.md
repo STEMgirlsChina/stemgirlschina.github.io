@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "爱丽丝·鲍曼：拍摄冥王星的女科学家 "
+title:  "理工女故事 | 爱丽丝·鲍曼：拍摄冥王星的女科学家 "
 teaser: ""
 breadcrumb: true
 categories:

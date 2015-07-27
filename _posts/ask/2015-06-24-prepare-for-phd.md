@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "想要读博，本科时该做些什么准备？"
+title:  "理工女问答 | 想要读博，本科时该做些什么准备？"
 teaser: "如果有明确的目标想要读博，那么在本科开始就应该有怎么样的想法、做怎么样的准备？"
 breadcrumb: true
 categories:

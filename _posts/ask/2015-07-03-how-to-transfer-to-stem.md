@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "本科文科，研究生如何转理工？ "
+title:  "理工女问答 | 本科文科，研究生如何转理工？ "
 teaser: "如果想要转专业，应该做些什么呢？"
 breadcrumb: true
 categories:

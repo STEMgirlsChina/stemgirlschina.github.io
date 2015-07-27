@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "理论物理学什么，就业怎么样？ "
+title:  "理工女问答 | 理论物理学什么，就业怎么样？ "
 teaser: "理论物理的就业怎样？理论物理学专业主要学些什么？"
 breadcrumb: true
 categories:

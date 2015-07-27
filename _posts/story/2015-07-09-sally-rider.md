@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "莎莉·莱德——探索太空奥秘的女宇航员"
+title:  "理工女故事 | 莎莉·莱德——探索太空奥秘的女宇航员"
 teaser: ""
 breadcrumb: true
 categories:

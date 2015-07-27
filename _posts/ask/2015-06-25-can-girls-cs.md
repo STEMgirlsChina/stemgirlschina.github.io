@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:  ""
-title:  "计算机适合女生吗？"
+title:  "理工女问答 | 计算机适合女生吗？"
 teaser: "如果你渴望创造，梦想进入一个可以自由支配的世界，那么，成为一名计算机攻城狮当然适合你！"
 breadcrumb: true
 categories:
