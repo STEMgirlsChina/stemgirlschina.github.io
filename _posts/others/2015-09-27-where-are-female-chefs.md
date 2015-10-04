@@ -6,7 +6,7 @@ teaser: ""
 breadcrumb: true
 categories:
     - others
-permalink: /blog-others/what-changed-my-mind
+permalink: /blog-others/where-are-female-chefs
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
