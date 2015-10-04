@@ -6,7 +6,7 @@ teaser: "性别是人生命中最初的标签。绝大多数人从小就知道�
 breadcrumb: true
 categories:
     - books_and_movies
-permalink: /blog-others/what-changed-my-mind
+permalink: /blog-books_and_movies/what-changed-my-mind
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:

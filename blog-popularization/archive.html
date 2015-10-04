@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "其他"
+title: "科普"
 teaser: ""
 breadcrumb: true
 header:
    image_fullwidth: header_unsplash_8.jpg
-permalink: "blog-others/archive/"
+permalink: "blog-popularization/archive/"
 ---
 <div id="blog-index" class="row">
 	<div class="small-12 columns t30">
@@ -14,7 +14,7 @@ permalink: "blog-others/archive/"
 
 		<dl class="accordion" data-accordion>
 			{% assign counter = 1 %}
-			{% for post in site.categories.others limit:1000 %}
+			{% for post in site.categories.popularization limit:1000 %}
 			<dd class="accordion-navigation">
 			<a href="#panel{{ counter }}"><span class="iconfont"></span> {% if post.subheadline %}{{ post.subheadline }} {% endif %}<strong>{{ post.title }}</strong></a>
 				<div id="panel{{ counter }}" class="content">

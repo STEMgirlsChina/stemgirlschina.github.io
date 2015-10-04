@@ -31,8 +31,8 @@
   url: "/blog-books_and_movies/archive"
   side: left
 
-- title: 其他
-  url: "/blog-others/archive"
+- title: 科普
+  url: "/blog-popularization/archive"
   side: left
 
 - title: 团队介绍

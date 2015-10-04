@@ -2,10 +2,10 @@
 layout: page-fullwidth
 subheadline:  ""
 title:  "理工女科普｜解答生命之谜的生物物理学"
-teaser: ""
+teaser: "虽然物理、化学、生物被分成三个学科，但其实是环环相扣的：量子力学解释了化学键的本质，而化学是一切生物学过程的基础。如今，生物物理学 (biophysics) 早已成为独当一面的领域，而相关研究也许会解开一个自古以来的谜团：生命是什么？"
 breadcrumb: true
 categories:
-    - others
+    - popularization
 permalink: /blog-others/biophysics-explained
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
@@ -24,8 +24,6 @@ image:
 
 
 ![biophysics](/assets/img/biophysics.jpg)
-
-虽然物理、化学、生物被分成三个学科，但其实是环环相扣的：量子力学解释了化学键的本质，而化学是一切生物学过程（如光合作用）的基础。如今，生物物理学 (biophysics) 早已成为独当一面的领域，而相关研究也许会解开一个自古以来的谜团：生命是什么？
 
 生物物理学，顾名思义，就是利用物理理论和研究方法来理解各种生物现象。它所研究的内容小至细胞层面的生物学过程，大至动物的群体行为，是一个很难一概而论的领域。举两个例子：
 

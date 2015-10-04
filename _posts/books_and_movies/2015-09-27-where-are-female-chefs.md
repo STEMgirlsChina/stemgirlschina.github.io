@@ -6,7 +6,7 @@ teaser: "过去一个世纪里，女性在教育和就业上遭受歧视的情�
 breadcrumb: true
 categories:
     - books_and_movies
-permalink: /blog-others/where-are-female-chefs
+permalink: /blog-books_and_movies/where-are-female-chefs
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
