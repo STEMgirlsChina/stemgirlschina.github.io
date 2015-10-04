@@ -2,10 +2,10 @@
 layout: page-fullwidth
 subheadline:  ""
 title:  "理工女书影｜不要歧视你的大脑 "
-teaser: ""
+teaser: "性别是人生命中最初的标签。绝大多数人从小就知道自己的性别，也能一眼分辨出他人的性别。但是，假如你是一位专业的神经科学家，给你一张大脑的CT或者fMRI图像，你能看出大脑的主人是男性还是女性吗？"
 breadcrumb: true
 categories:
-    - others
+    - books_and_movies
 permalink: /blog-others/what-changed-my-mind
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
@@ -15,8 +15,6 @@ image:
 ---
 
 ![title](/assets/img/what-changed-my-mind.jpg)
-
-性别是人生命中最初的标签。绝大多数人从小就知道自己的性别，也能一眼分辨出他人的性别。但是，假如你是一位专业的神经科学家，给你一张大脑的CT或者fMRI图像，你能看出大脑的主人是男性还是女性吗？
 
 
 <p style="line-height: normal; font-size: 16px; font-family: 微软雅黑; color: rgb(0, 187, 170); box-sizing: border-box; padding: 0px; margin: 10px 0px; text-align: left;"><strong>

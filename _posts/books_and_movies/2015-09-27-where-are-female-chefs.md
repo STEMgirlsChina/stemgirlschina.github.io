@@ -2,10 +2,10 @@
 layout: page-fullwidth
 subheadline:  ""
 title:  "理工女书影｜女大厨都去哪儿了？  "
-teaser: ""
+teaser: "过去一个世纪里，女性在教育和就业上遭受歧视的情况有所改善，但在专业烹饪领域，性别歧视与分化依然十分严重。为什么家庭中做饭的常常是女性，而著名大厨却总以男性居多？在专业烹饪这样一个由男性主导的领域，女性厨师们面临着怎样的困境，又该如何解决？"
 breadcrumb: true
 categories:
-    - others
+    - books_and_movies
 permalink: /blog-others/where-are-female-chefs
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"

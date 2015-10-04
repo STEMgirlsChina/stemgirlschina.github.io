@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline:  ""
 title:  "理工女圆桌 | 科学如何研究性别差异? "
-teaser: ""
+teaser: "如果我们的社会真的把平等作为文明的准则，那么哪怕不同性别、不同种族、不同性取向的人存在差异又如何？如果每个人都有被平等对待的权利，差异不应改变我们对一个群体的看法。那些试图通过控制科学话语来合理化自身群体优越性的人，恰恰暴露了自己的伪善。"
 breadcrumb: true
 categories:
     - interview
