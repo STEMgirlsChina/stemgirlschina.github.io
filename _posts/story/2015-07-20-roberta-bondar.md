@@ -5,7 +5,7 @@ title:  "理工女专访 | 罗伯塔·邦德尔：太空中的八天与一生 "
 teaser: ""
 breadcrumb: true
 categories:
-    - interview
+    - story
 permalink: /interview/roberta-bondar
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"

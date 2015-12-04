@@ -9,11 +9,6 @@
 - title: 问答
   url: "/blog-ask/archive"
   side: left
-  #dropdown:
-  #- title: Blog
-  #  url: "/blog/"
-  #- title: "Blog Archive"
-  #  url: "/blog/archive/"
 
 - title: 心声
   url: "/blog-journey/archive"
@@ -23,7 +18,7 @@
   url: "/blog-story/archive"
   side: left
 
-- title: 专访
+- title: 圆桌
   url: "/blog-interview/archive"
   side: left
 

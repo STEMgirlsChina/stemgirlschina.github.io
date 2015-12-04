@@ -6,7 +6,7 @@ teaser: "如果我们的社会真的把平等作为文明的准则，那么哪�
 breadcrumb: true
 categories:
     - interview
-permalink: /interview/roberta-bondar
+permalink: /interview/gender-difference
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:

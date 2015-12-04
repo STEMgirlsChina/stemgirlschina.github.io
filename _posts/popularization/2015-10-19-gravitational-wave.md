@@ -6,7 +6,7 @@ teaser: "是理论物理学家的疯狂构想，还是黑洞融合产生的时�
 breadcrumb: true
 categories:
     - popularization
-permalink: /blog-others/biophysics-explained
+permalink: /blog-others/gravitational-wave
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:

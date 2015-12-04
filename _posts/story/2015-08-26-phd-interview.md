@@ -5,8 +5,8 @@ title:  "理工女专访 | 四位女博士谈：在国外读博是种怎样的�
 teaser: ""
 breadcrumb: true
 categories:
-    - interview
-permalink: /interview/roberta-bondar
+    - story
+permalink: /interview/phd-interview
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:

@@ -6,7 +6,7 @@ teaser: "在这篇文章中，枣小姐详细的讲述了她从离开科研，�
 breadcrumb: true
 categories:
     - journey
-permalink: /blog-journey/where-are-female-scientists
+permalink: /blog-journey/from-environmental-science-to-pm
 header:
     image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 image:
